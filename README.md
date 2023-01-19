@@ -24,17 +24,17 @@ Alena-MD Multi Device is a automated whatsapp bot created by <a href="https://gi
 
  * [`ALENA QR SCANNER`](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dominator454/Alena-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VimuwaTik/Alena-MD)
 
 
 
 *EDIT SETTINGS*
 
-* [`ALL EDITING SETINGS`](https://github.com/dominator454/Alena-MD/blob/Jsl-Beta/settings.js)
+* [`ALL EDITING SETINGS`](https://github.com/VimuwaTik/Alena-MD/blob/Jsl-Beta/settings.js)
 
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/dominator454/Alena-MD.git
+git clone https://github.com/VimuwaTik/Alena-MD.git
 cd Alena-MD
 
 npm start
